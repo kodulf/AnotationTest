@@ -2,7 +2,6 @@ package unittest;
 
 //: annotations/AtUnitExample1.java
 //import net.mindview.atunit.*;
-import net.mindview.util.*;
 
 import org.junit.Test;
 
